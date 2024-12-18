@@ -106,29 +106,7 @@ We have six type of different headers with sizes
 - [Contribution](#contribution)
 - [License](#license)
 
-## 6. How to Create an Installation Guide
-
-### Setup & Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/project-name.git
-   ```
-
-2. Install packages:
-
-   ```bash
-   npm install
-   ```
-
-   ### Note:
-
-   - When we are showing only code use ```
-
-   - when we are showing bash code we have to add **bash** after the first(initial) three tilt sign. ```bash
-
-## Project Folder Structure
+## 6. Project Folder Structure
 
 - Use **backticks** (`` ` ``) to create a code block.
 - Use **slashes** (`/`) to indicate directories.
@@ -173,8 +151,6 @@ project-name/
     git clone https://github.com/yourusername/your-project.git
     ```
 
-    ````
-
     2. **Install Dependencies**
 
     ```bash
@@ -192,6 +168,12 @@ project-name/
     ```bash
     npm run dev
     ```
+
+### Note:
+
+- When we are showing only code use ```
+
+- when we are showing bash code we have to add **bash** after the first(initial) three tilt sign. ```bash
 
 ## 8. How to add features of a project
 
@@ -279,6 +261,11 @@ If your project calls APIs or has backend services, explain them here.
 ### Preview:
 
 <img src="coffee.jpg" alt="alt text" width="200" height="300">
+
+## 10. Useful websites:
+
+- `https://readme.so`
+- `https://www.makeareadme.com/`
 
 ## Contribution 😉
 
