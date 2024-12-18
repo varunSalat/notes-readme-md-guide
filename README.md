@@ -17,7 +17,7 @@ The aim of this project is to:
 
 - Press **`Ctrl + Shift + V`**
 
-## **1. Title of the Project**
+## **1. Titles of the Project**
 
 Use the `#` symbol to define the main title of the project.
 
@@ -37,21 +37,23 @@ We have six type of different headers with sizes
 
 ###### sixth header (`######`)
 
-- ## 2. To create list like view we use `-` sign.
+## 2. How to create list?
 
-  - this is list one
-  - this is list two
+- to create like view we use `-` sign.
 
-- ## 3. if you add tab after the header it will add tab in readme.md file as well
+### Exa:
 
 - this is list one
+- this is list two
 
-  - this is list two
-  - this is list three
+## 3. If you add tab after the header it will add tab in readme.md file as well
 
-- ## 4. We can create badges
+- this is parent list
 
-  ### how to create badges?
+  - this is child list one
+  - this is child list two
+
+## 4. How to create badges?
 
 1. **Visit the following link:**  
    `https://shields.io/badges/crates-io-license`
@@ -74,9 +76,9 @@ We have six type of different headers with sizes
    ![Crates.io License](https://img.shields.io/crates/l/mit)
    ![Endpoint Badge](https://img.shields.io/endpoint?url=endpoint-badge)
 
-- ## 5. Provide a table of content
+## 5. How to provide a table of content
 
-  - It is just like adding context or summary
+- It is just like adding context or summary
 
 ### Exa:
 
@@ -174,6 +176,13 @@ project-name/
 - When we are showing only code use ```
 
 - when we are showing bash code we have to add **bash** after the first(initial) three tilt sign. ```bash
+- just like this we can define while language code it is by adding landing name after first title sign.
+
+- exa:
+
+  ```typescript
+  console.log("this is ts code);
+  ```
 
 ## 8. How to add features of a project
 
